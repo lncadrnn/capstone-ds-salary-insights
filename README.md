@@ -6,6 +6,10 @@ This project is part of the **Direcho Trabaho Program: Data Science in the Moder
 ## 📁 Dataset Information
 - **Source**: [Kaggle - Data Science Job Salaries](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
 - **Description**: The dataset provides insights into salaries for data science roles across various industries, job levels, and locations.
+
+## 📂 Files to access the Project
+- **`capstone-dataset.xlsx`**
+- **`capstone-report.pdf`**
 - **Spreadsheet Link**: [Google Sheets](https://docs.google.com/spreadsheets/d/1TT8Ky4wG-CaNYhpOhjNhRsCbPlaM5-ouA_7v5eh3q08/edit?usp=sharing)
 
 ## 📑 Excel File Structure
